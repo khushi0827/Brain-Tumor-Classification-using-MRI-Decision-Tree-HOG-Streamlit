@@ -4,7 +4,7 @@ Python
 Decision Tree
 Streamlit
 
-website Link :
+website Link : https://brain-tumor-classification-using-mri-8060.onrender.com/
 
 This project is a Machine Learning based web application that classifies MRI brain scan images into different tumor categories using HOG (Histogram of Oriented Gradients) features and a Decision Tree classifier.
 The application is built with Streamlit, allowing users to upload an MRI image and instantly receive a predicted tumor type along with confidence scores.
